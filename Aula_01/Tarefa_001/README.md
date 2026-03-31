@@ -1,0 +1,3 @@
+Aqui consta o conteudo solicitado para a conclusão da primeira tarefa da Cadeira de Inteligência Artificial.
+Foi utilizado o DataSet "Penguins" do Seaborn e meu target para os testes foram as três diferentes espécies que este DataSet disponibiliza.
+BaseLine escolhida foi a LogisticRegression e as outras 3 melhorias utilizadas nesta atividade foram SVM, RandomForestClassifier e GradientBoostingClassifier.
