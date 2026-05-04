@@ -1,0 +1,1 @@
+Arquivo onde serão registradas mudanças por parte de código do trabalho Final.
